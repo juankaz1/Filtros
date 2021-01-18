@@ -1,4 +1,1 @@
-Sanabria_Linares_hw5
-====================
-
-Respuesta a tarea 5 de metodos computacionales
+Diferentes ejemplos de filtros y bùsqueda de patrones en: datos en tensores, sonido e imagenes.
